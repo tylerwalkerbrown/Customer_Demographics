@@ -1,4 +1,5 @@
 #Customer Demographics
+To Do - Clean census data for better analysis 
 ![output_55_1](https://user-images.githubusercontent.com/94020684/206088146-ba2041cb-22c1-4bf4-8bba-17a7064c840e.png)
 ![output_54_0](https://user-images.githubusercontent.com/94020684/206088149-5b32d143-67b2-49fe-9334-d35b9294a9ba.png)
 ![output_52_0](https://user-images.githubusercontent.com/94020684/206088152-37d0f733-1ea7-448f-8bda-bff895db7942.png)
