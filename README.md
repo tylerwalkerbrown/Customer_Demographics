@@ -1,8 +1,9 @@
 #Customer Demographics
-To Do - Clean census data for better analysis 
-![output_55_1](https://user-images.githubusercontent.com/94020684/206088146-ba2041cb-22c1-4bf4-8bba-17a7064c840e.png)
-![output_54_0](https://user-images.githubusercontent.com/94020684/206088149-5b32d143-67b2-49fe-9334-d35b9294a9ba.png)
-![output_52_0](https://user-images.githubusercontent.com/94020684/206088152-37d0f733-1ea7-448f-8bda-bff895db7942.png)
-![output_51_0](https://user-images.githubusercontent.com/94020684/206088154-0a271700-cb82-4d07-99a8-4cdb2a2bf47d.png)
-![output_50_1](https://user-images.githubusercontent.com/94020684/206088156-f20568ad-69a0-4d25-bfe9-233fb81f2aac.png)
-![output_49_0](https://user-images.githubusercontent.com/94020684/206088157-8c6cc257-3c98-472b-af23-6681bd0a762a.png)
+![output_66_0](https://user-images.githubusercontent.com/94020684/206355688-d8e31d89-da70-4852-8c93-b06159a39f91.png)
+![output_62_0](https://user-images.githubusercontent.com/94020684/206355689-81d64ee0-a0c4-467e-ac96-db3199fb2797.png)
+![output_59_1](https://user-images.githubusercontent.com/94020684/206355691-8a3b1fd2-5979-454c-beff-2e29282e8e31.png)
+![output_57_0](https://user-images.githubusercontent.com/94020684/206355692-8ee6e229-b4d2-49af-9583-bbdec59a28e7.png)
+![output_56_0](https://user-images.githubusercontent.com/94020684/206355693-6b02c246-dbae-4cb0-b3f9-3c96a1eb83c9.png)
+![output_55_0](https://user-images.githubusercontent.com/94020684/206355698-d9078cac-25e7-4c2c-abf7-2a54b7d55121.png)
+![output_54_1](https://user-images.githubusercontent.com/94020684/206355700-d523676b-6c0c-4dd4-8592-cc4bdb263b34.png)
+![output_53_0](https://user-images.githubusercontent.com/94020684/206355701-14b01883-db45-4c82-a6b5-cd5080c82d08.png)
